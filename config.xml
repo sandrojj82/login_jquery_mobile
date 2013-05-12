@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "co.setic.ubica"
+    version   = "1.0.0">
+
+<name>Cuadrante mas cercano</name>
+
+<description>
+Aplicacion para ubicar al cuadrante mas cercano
+</description>
+<preference name="orientation" value="portrait"/>
+<preference name="fullscreen" value="true"/>
+<icon src="imagenes/poli.png"/>
+<gap:splash src="imagenes/logopolicia.png"/>
+<author href="https://example.com" email="sandrojaramillo@hotmail.com">
+sandro Jaramillo
+</author>
+
+</widget>
