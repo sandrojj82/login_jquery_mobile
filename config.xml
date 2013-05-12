@@ -4,10 +4,10 @@
     id        = "co.setic.ubica"
     version   = "1.0.0">
 
-<name>Cuadrante mas cercano</name>
+<name>Aplicacion d ejemplo</name>
 
 <description>
-Aplicacion para ubicar al cuadrante mas cercano
+Aplicacion de ejemplo
 </description>
 <preference name="orientation" value="portrait"/>
 <preference name="fullscreen" value="true"/>
